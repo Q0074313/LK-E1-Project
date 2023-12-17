@@ -1,0 +1,34 @@
+[
+    {
+        "gericht":"Kartoffelsalat",
+        "id":"kartoffelsalat",
+        "sort1":"Vegan",
+        "sort2":"Beilage",
+        "bild":"rezepte/kartoffelsalat.jpg",
+        "categories":["vegan", "beilage"]
+    },
+    {
+        "gericht":"Nudel Schinken Auflauf",
+        "id":"nudelschinkenauflauf",
+        "sort1":"Fleisch",
+        "sort2":"Hauptgericht",
+        "bild":"rezepte/nudelschinkenauflauf.jpg",
+        "categories":["fleisch", "hauptgericht"]
+    },
+    {
+        "gericht":"Tiramisu",
+        "id":"tiramisu",
+        "sort1":"Vegetarisch",
+        "sort2":"Nachtisch",
+        "bild":"rezepte/tiramisu.jpg",
+        "categories":["vegetarisch", "nachtisch"]
+    },
+    {
+        "gericht":"Vanilleeis",
+        "id":"vanilleeis",
+        "sort1":"Vegan",
+        "sort2":"Nachtisch",
+        "bild":"rezepte/vanilleeis.jpg",
+        "categories":["vegan", "nachtisch"]
+    }
+]

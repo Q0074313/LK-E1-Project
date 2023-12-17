@@ -1,0 +1,42 @@
+[
+    {
+        "zutat":"Kuvertüre",
+        "menge":"100",
+        "einheit":"g"
+    },
+    {
+        "zutat":"Sahne (32%)",
+        "menge":"250",
+        "einheit":"ml"
+    },
+    {
+        "zutat":"Eigelb",
+        "menge":"2",
+        "einheit":""
+    },
+    {
+        "zutat":"Eier",
+        "menge":"1",
+        "einheit":""
+    },
+    {
+        "zutat":"Zucker",
+        "menge":"2",
+        "einheit":"EL"
+    },
+    {
+        "zutat":"Vanillezucker",
+        "menge":"1",
+        "einheit":"Beutel"
+    },
+    {
+        "zutat":"Vanilleschoten",
+        "menge":"0.5",
+        "einheit":""
+    },
+    {
+        "zutat":"Vanille (gemahlen)",
+        "menge":"1",
+        "einheit":"TL"
+    }
+]

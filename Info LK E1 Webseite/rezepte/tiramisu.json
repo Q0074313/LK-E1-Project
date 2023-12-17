@@ -1,0 +1,42 @@
+[
+    {
+        "zutat":"Mascarpone",
+        "menge":"125",
+        "einheit":"g"
+    },
+    {
+        "zutat":"Puderzucker",
+        "menge":"25",
+        "einheit":"g"
+    },
+    {
+        "zutat":"Löffelbiskuits",
+        "menge":"50",
+        "einheit":"g"
+    },
+    {
+        "zutat":"Eigelb",
+        "menge":"1",
+        "einheit":""
+    },
+    {
+        "zutat":"Eiweiß",
+        "menge":"0.5",
+        "einheit":""
+    },
+    {
+        "zutat":"Kaffee (gekocht, abgekühlt)",
+        "menge":"0.75",
+        "einheit":"Tassen"
+    },
+    {
+        "zutat":"Amaretto",
+        "menge":"0.5",
+        "einheit":"EL"
+    },
+    {
+        "zutat":"Kakaopulver",
+        "menge":"15",
+        "einheit":"g"
+    }
+]

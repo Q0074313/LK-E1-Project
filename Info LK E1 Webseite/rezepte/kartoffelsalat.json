@@ -1,0 +1,37 @@
+[
+{
+    "zutat":"Kartoffeln",
+    "menge":"300",
+    "einheit":"g"
+},
+{
+    "zutat":"Zwiebeln (gewürfelt)",
+    "menge":"40",
+    "einheit":"g"
+},
+{
+    "zutat":"Gemüsebrühe",
+    "menge":"40",
+    "einheit":"ml"
+},
+{
+    "zutat":"Weißweinessig",
+    "menge":"0.5",
+    "einheit":"TL"
+},
+{
+    "zutat":"Senf",
+    "menge":"0.5",
+    "einheit":"TL"
+},
+{
+    "zutat":"Mayonaisetoffeln",
+    "menge":"30",
+    "einheit":"g"
+},
+{
+    "zutat":"Gewürzgurke (fein geschnitten)",
+    "menge":"1",
+    "einheit":""
+}
+]
