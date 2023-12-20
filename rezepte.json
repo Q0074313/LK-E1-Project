@@ -5,7 +5,7 @@
         "sort1":"Vegan",
         "sort2":"Beilage",
         "bild":"rezepte/kartoffelsalat.jpg",
-        "categories":["vegan", "beilage"]
+        "categories":["vegetarisch", "beilage"]
     },
     {
         "gericht":"Nudel Schinken Auflauf",
@@ -29,6 +29,6 @@
         "sort1":"Vegan",
         "sort2":"Nachtisch",
         "bild":"rezepte/vanilleeis.jpg",
-        "categories":["vegan", "nachtisch"]
+        "categories":["vegetarisch", "nachtisch"]
     }
 ]
